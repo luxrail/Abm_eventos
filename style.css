@@ -43,7 +43,7 @@
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: rgb(60, 60, 60);
+    background-color: rgb(75, 75, 75);
 }
 /* social media icons styling */
 .social-icons {
@@ -138,7 +138,7 @@
   
   .footer-clean {
     width: 100%;
-    background: #102948;
+    background: rgb(75, 75, 75);
     color: #FFF;
     padding: 40px;
   }
