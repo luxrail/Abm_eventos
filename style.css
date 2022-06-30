@@ -1,6 +1,6 @@
 
 .nav-link{
-    color: rgb(255, 255, 255) !important;
+    color: black !important;
     font-weight: bold;  
    }
    a:hover {
@@ -43,7 +43,7 @@
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(60, 60, 60);
 }
 /* social media icons styling */
 .social-icons {
